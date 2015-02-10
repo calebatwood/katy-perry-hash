@@ -12,3 +12,5 @@ sharks = {
 KATY_PERRY.merge!(sharks)
 puts KATY_PERRY[:left_shark][:candidates].first
 puts KATY_PERRY[:left_shark][:candidates].last
+
+#test commit chart
